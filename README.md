@@ -6,6 +6,8 @@ This repository contains my daily JavaScript and DSA practice as part of my 100-
 js-dsa/
 ├── day01/ # JavaScript basics
 ├── day02/ # Loops & Arrays
+├── day03/ # Functions Basics
+
 
 ## Goal
 - Master JavaScript fundamentals
