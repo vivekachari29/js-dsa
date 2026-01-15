@@ -1,17 +1,19 @@
 # JavaScript + DSA (100 Days Challenge)
 
-This repository contains my daily JavaScript and DSA practice as part of my 100-day MERN Stack preparation.
+This repository contains my daily JavaScript and DSA practice as part of my 100-day journey to become a MERN Stack Developer.
 
-## Structure
-js-dsa/
-├── day01/ # JavaScript basics
-├── day02/ # Loops & Arrays
-├── day03/ # Functions Basics
+## 📅 Progress
+- ✅ Day 1: JavaScript basics
+- ✅ Day 2: Loops & Arrays
+- ✅ Day 3: Functions + Basic DSA
+- ✅ Day 4: Strings, Objects & String DSA
 
 
-## Goal
+## 🎯 Goal
 - Master JavaScript fundamentals
 - Build strong DSA foundation
-- Become MERN Stack Developer
+- Build real-world MERN projects
+- Get a MERN Stack Developer job
 
 🚀 Daily GitHub updates
+
