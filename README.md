@@ -7,6 +7,9 @@ This repository contains my daily JavaScript and DSA practice as part of my 100-
 - ✅ Day 2: Loops & Arrays
 - ✅ Day 3: Functions + Basic DSA
 - ✅ Day 4: Strings, Objects & String DSA
+- ✅ Day 5: Arrays deep dive (map, filter, reduce)
+- ✅ Day 6: Objects, destructuring & spread operator
+- ✅ Day 7: Advanced functions, arrow functions & callbacks
 
 
 ## 🎯 Goal
